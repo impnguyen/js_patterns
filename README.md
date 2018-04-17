@@ -7,7 +7,7 @@ This repository shows a set of sample javascript pattern implementations. It sho
 
 
 ## revealing module pattern
-The revealing module pattern enables a packaged module with control of accessability. So you can define which method or object is private or public. You can also define an alias name for the internal/private methods or objects, which is the API for the user of your module. (Full example: [Link](examples/RevealingModulePattern))
+The revealing module pattern enables a packaged module with control of accessability. So you can define which method or object is private or public. You can also define an alias name for the internal/private methods or objects, which is the API for the user of your module. (Full example: [RMP](examples/RevealingModulePattern))
 
 ```javascript
 var module = (function() {
