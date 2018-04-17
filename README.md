@@ -2,7 +2,7 @@
 This repository shows a set of sample javascript pattern implementations. It should act as a reference book for pattern implementations.
 
 ## contents
-1. [Revealing module pattern](https://google.com)
+1. [Revealing module pattern](https://github.com/impnguyen/js_patterns/blob/master/README.md#revealing-module-pattern)
 
 
 
