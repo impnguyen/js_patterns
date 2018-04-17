@@ -1,2 +1,6 @@
 # js_patterns
-a repository with various javascript pattern implementations
+This repository shows a set of sample javascript pattern implementations. It should act as a reference book for pattern implementations.
+
+1. First list item
+   - First nested list item
+     - Second nested list item
