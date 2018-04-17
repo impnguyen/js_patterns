@@ -1,5 +1,5 @@
 # js_patterns
-This repository shows a set of sample javascript pattern implementations. It should act as a reference book for pattern implementations.
+This repository shows a set of sample javascript pattern implementations. It should act as a reference book for pattern implementations, so you can clone the sample easily to adapt it for your necessisties.
 
 ## contents
 1. [Revealing module pattern](https://github.com/impnguyen/js_patterns/blob/master/README.md#revealing-module-pattern)
