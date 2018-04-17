@@ -10,5 +10,20 @@ This repository shows a set of sample javascript pattern implementations. It sho
 The revealing module pattern enables a packaged module with control of accessability. So you can define which method or object is private or public. You can also define an alias name for the internal/private methods or objects, which is the api for the user of your module.
 
 ```javascript
-var a = 'b';
+var module = (function() {
+    // private members
+    var aObjects = [];
+
+    // private methods
+    function addObject(object) {
+        aObjects.push(object);
+    }
+
+    // public api
+    return {
+        addMyObject: addObject
+    };
+})();
+
+module.exports = module;
 ```
