@@ -1,4 +1,4 @@
-# js_patterns
+# Javascript patterns and sample implementations
 This repository shows a set of sample javascript pattern implementations. It should act as a reference book for pattern implementations, so you can clone the sample easily to adapt it for your necessisties.
 
 ## contents
